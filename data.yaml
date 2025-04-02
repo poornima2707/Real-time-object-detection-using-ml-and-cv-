@@ -1,0 +1,15 @@
+train: C:\Users\SUCHETI\OneDrive\Desktop\DatasetObjectDetection\images\train images  
+val: C:\Users\SUCHETI\OneDrive\Desktop\DatasetObjectDetection\images\valid images      
+test: C:\Users\SUCHETI\OneDrive\Desktop\DatasetObjectDetection\images\test iamges
+
+nc: 55  # Corrected to match the number of class names
+
+names: [
+  "Bicycle", "Bike", "Car", "Cyclist", "Pedestrian", "Pedestrians", "Persona", "Pessoa", 
+  "Signboard", "Stopper", "aeroplane", "auto", "bag", "berdiri", "bicycle", "bike", "bird", 
+  "boat", "bottle", "bus", "car", "cat", "chair", "cow", "cyclist", "dianzhuan", 
+  "diningtable", "dog", "face", "football", "forklift", "handbag", "head", "helmet", 
+  "high", "horse", "jatuh", "laptop", "low", "medium", "motorbike", "number_plate", 
+  "people", "person", "persons", "player", "pottedplant", "refrigerator", "sheep", 
+  "sofa", "teddy bear", "train", "truck", "tv", "tvmonitor"
+]
