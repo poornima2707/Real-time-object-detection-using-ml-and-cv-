@@ -8,9 +8,17 @@ This project uses YOLOv8 for real-time object detection in images and video stre
 
 
 The People Detection Dataset from Roboflow contains 7,261 images with YOLO, COCO, and Pascal VOC annotations. It is split into:
+
+
 Training: 80% (~5,800 images)
+
+
 Validation: 10% (~725 images)
+
+
 Testing: 10% (~725 images)
+
+
 Preprocessing includes resizing, filtering, and contrast enhancement.
 
 **Challenges & Solutions**
